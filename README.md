@@ -1,10 +1,10 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%, height=50%" />
+<img src="https://thumbs.gfycat.com/DamagedImportantAmurratsnake-size_restricted.gif" align="center" height="250" width="700" />
 </div>  
   
 
-### <div align="center">Mi nombre es Cristopher Alexander Lazo y soy Full Stack Developer, Tec. en Computación e informática y Estudiante de la carrera de Licenciatura Sistemas.
-  📌Soy de Buenos Aires, Argentina y me considero una persona dedicada y responsable🚀</div>  
+### Mi nombre es Cristopher Alexander Lazo y soy Full Stack Developer, Tec. en Computación e informática y Estudiante de la carrera de Licenciatura Sistemas.
+  📌Soy de Buenos Aires, Argentina y me considero una persona dedicada y responsable🚀  
   
 
 - 🔭 Recientemente estuve trabajando en una app SPA con temática de Pokémon, y un Ecommerce de manera grupal con la metodología de trabajo SCRUM  
@@ -76,8 +76,7 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
- 
-<br/>  
+
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=cristopher-99&&style=flat-square" align="center" />
