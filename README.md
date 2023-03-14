@@ -7,16 +7,17 @@
   📌Soy de Buenos Aires, Argentina y me considero una persona dedicada y responsable🚀  
   
 
-- 🔭 Recientemente estuve trabajando en una app SPA con temática de Pokémon, y un Ecommerce de manera grupal con la metodología de trabajo SCRUM  
+ 🔭 Recientemente estuve trabajando en una app SPA con temática de Pokémon, y un Ecommerce de manera grupal con la metodología de trabajo SCRUM  
   
-
-- ⚡Actualmente me estoy capacitando como Diseñador UX/UI  
+ ⚡Actualmente me estoy capacitando como Diseñador UX/UI  
   
-
+ ⚡Deploy de mis proyectos:
+ - App Pokemon: https://clazo-pokemon.netlify.app/
+ - App Ecommerce: https://main.d2d0y3pf0pfssa.amplifyapp.com/
 <br/>  
 
 
-## My Skill Set  
+## Mis tecnologias:
 <table><tr><td valign="top" width="33%">
 
 
@@ -64,7 +65,7 @@
 <br/>  
 
 
-## Connect with me  
+## Contactate conmigo
 <div align="center">
 <a href="https://github.com/cristopher-99" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
