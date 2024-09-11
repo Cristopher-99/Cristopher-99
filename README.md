@@ -9,7 +9,7 @@
 
  🔭 Recientemente estuve trabajando en una app SPA con temática de Pokémon, y un Ecommerce de manera grupal con la metodología de trabajo SCRUM  
   
- ⚡Actualmente me estoy capacitando como Diseñador UX/UI  
+
   
  ⚡Deploy de mis proyectos:
  - App Pokemon: https://clazo-pokemon.netlify.app/
